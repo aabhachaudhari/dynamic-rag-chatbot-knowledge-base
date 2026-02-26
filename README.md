@@ -30,3 +30,5 @@ python chatbot.py
 ## Result
 The chatbot answers questions based on newly added information.
 
+## 🔁 Live Update Support
+The knowledge base can be updated from web sources using `update.py`, and changes are reflected without rebuilding the entire vector database.
